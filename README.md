@@ -83,7 +83,7 @@ Data-Streaming-Flink-Spark/
 ├── flink_streaming.py        # Flink streaming script
 ├── spark_persist.py          # Spark persistence script
 ├── streaming_aggregates.py   # Data aggregation script
-├── grafana_dashboard.json    # Grafana dashboard configuration file
+├── dashboard.json    # Grafana dashboard configuration file
 ├── spark_persisted_output/   # Output folder for Spark persisted data
 ├── aggregated_output/        # Output folder for aggregated data
 ```
