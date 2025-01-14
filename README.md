@@ -72,6 +72,7 @@ Follow these steps to set up and execute the data streaming pipeline:
 
 - Update the paths for each Python file (`flink_streaming.py`, `spark_persist.py`, `streaming_aggregates.py`) according to your system setup.
 - Ensure all required dependencies are installed and configured correctly.
+- You can download the original dataset from: [Download](https://mega.nz/file/OJUxVKCB#vWVfFYmnAzAM0PTMBZRSmmrWePcmoN1qIpM0kd4zFRw)
 
 ---
 
