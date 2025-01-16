@@ -27,7 +27,7 @@ Follow these steps to set up and execute the data streaming pipeline:
    ```bash
    ./start-cluster.sh
    ```
-![Confirmation_JPS](https://github.com/user-attachments/assets/7c9af80c-fd89-491f-aa1a-ee875113f6b4)
+   ![Confirmation_JPS](https://github.com/user-attachments/assets/7c9af80c-fd89-491f-aa1a-ee875113f6b4)
 
 ### 2. Stream Data with Flink
 
