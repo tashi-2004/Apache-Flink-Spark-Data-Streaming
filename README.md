@@ -1,5 +1,5 @@
 # Data-Streaming-Flink-Spark
-This repository demonstrates a real-time data streaming and persistence workflow using **Apache Flink**, **Apache Spark**, and **Grafana** for monitoring. The pipeline streams data, persists it in Parquet format, and performs aggregations for analytical insights.
+This repository demonstrates a real-time data streaming and persistence workflow using **Apache Flink**, **Apache Spark**, and **Grafana** for monitoring. The pipeline streams data, persists it in Parquet format, and performs aggregations for analytical insights
 
 ---
 
